@@ -1,0 +1,24 @@
+.icon_google{
+    background-image : url(google.png);
+    background-size: cover;
+    display: inline-block;
+    height: 15px;
+    width: 15px;
+  }
+  .icon_apple{
+    background-image : url(apple.png);
+    background-size: cover;
+    display: inline-block;
+    height: 20px;
+    width: 16px;
+  }
+
+  .left{
+    display:inline-block;
+    vertical-align:middle;
+  }
+  
+  .right{
+    display:inline-block;
+    vertical-align:middle;
+  }

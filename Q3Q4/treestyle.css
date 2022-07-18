@@ -1,0 +1,25 @@
+.navbar .navbar-nav .nav-link {
+    font-size: 1.1em;
+}
+.navbar .navbar-nav .nav-link:hover {
+  background-color: #0e0103;
+  color: #fff;
+}
+
+
+.center {
+    display: block;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+  }
+  .center_img {
+    display: block;
+    width: 100%;
+  }
+p{
+    text-align: center;
+}
+div {
+    word-wrap: break-word;
+}
